@@ -1,1 +1,1 @@
-a [Sails](http://sailsjs.org) application
+A [Sails](http://sailsjs.org) application.
